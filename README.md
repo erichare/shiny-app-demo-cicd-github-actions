@@ -12,3 +12,5 @@ This repository is an example of the third deployment path using GitHub Actions 
 a CI/CD pipeline to test and deploy a Shiny application to RStudio Connect. 
 
 If you want to learn more about it you can read: [https://solutions.rstudio.com/data-science-admin/deploy/ci-cd/github-actions/](https://solutions.rstudio.com/data-science-admin/deploy/ci-cd/github-actions/)
+
+Trigger new build
